@@ -2,8 +2,6 @@
 
 This project is designed to help users compare prices of groceries at local stores, enabling them to make more informed decisions about where to buy their groceries.
 
-The current live version of the site can be found at https://groceriez.bradencoates.ca/.
-
 ## Features
 
 ### Website
